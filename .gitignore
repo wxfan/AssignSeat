@@ -1,0 +1,5 @@
+.aider*
+.env
+# ignore all files in the bin and obj directories
+bin/
+obj/

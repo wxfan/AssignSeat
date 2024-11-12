@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignSeat", "AssignSeat\AssignSeat.csproj", "{A7E5DEC7-3C1E-4982-BEE8-B12A84297220}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E5DEC7-3C1E-4982-BEE8-B12A84297220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E5DEC7-3C1E-4982-BEE8-B12A84297220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E5DEC7-3C1E-4982-BEE8-B12A84297220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E5DEC7-3C1E-4982-BEE8-B12A84297220}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F461056-4AB1-407A-B2A6-DF1F717ACAAE}
+	EndGlobalSection
+EndGlobal
